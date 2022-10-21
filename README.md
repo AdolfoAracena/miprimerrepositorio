@@ -1,5 +1,5 @@
 # miprimerrepositorio
-Paso 0) Ejecuten el comando un git clone
+Paso 0) Ejecuten el comando un git clone https://github.com/LuxoSeeker/miprimerrepositorio
 
 paso 1) Dirige a https://www.python.org/downloads/ y descargar Python 3.10.8 para su sistema correspondiente
 
